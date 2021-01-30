@@ -1,0 +1,68 @@
+
+[
+    {
+      "id": 1,
+      "first": "Biden Jr., Joseph Robinette",
+      "position": "US President",
+      "birth": "November 20, 1942",
+      "department": "Executive",
+      "cell": "123-321-0988",
+      "confirmed by senate": "Yes",
+      "photo": ""
+    },
+    {
+        "id": 2,
+        "first": "Harris, Kamala Devi",
+        "position": "US Vice President",
+        "birth": "October 20, 1964",
+        "department": "Executive",
+        "cell": "123-321-0988",
+        "confirmed by senate": "Yes",
+        "photo": ""
+      },
+      {
+      "id": 3,
+      "first": "Yellen, Janet",
+      "position": "Secretary of the Treasury",
+      "birth": "August 13, 1946",
+      "department": "ECONOMIC POLICY",
+      "cell": "123-321-0988",
+      "confirmed by senate": "Yes",
+      "photo": ""
+    },
+    { "id": 4,
+    "first": "Rouset, Cecilia",
+    "position": "Chairperson, Council of Economic Advisers",
+    "birth": "December 18, 1963",
+    "department": "ECONOMIC POLICY",
+    "cell": "123-321-0988",
+    "confirmed by senate": "Confirmation needed",
+    "photo": ""
+  },
+  { "id": 5,
+    "first": "Tai, Katherine",
+    "position": "U.S. Trade Representative",
+    "birth": "1975",
+    "department": "ECONOMIC POLICY",
+    "cell": "123-321-0988",
+    "confirmed by senate": "Confirmation needed",
+    "photo": ""
+  },
+  { "id": 6,
+    "first": "Raimondo, Gina",
+    "position": "Secretary of Commerce",
+    "birth": "May 17, 1971",
+    "department": "ECONOMIC POLICY",
+    "cell": "123-321-0988",
+    "confirmed by senate": "Confirmation needed",
+    "photo": ""
+  }, { "id": 7,
+    "first": "Isabel Guzman",
+    "position": "Chief of Small Business Administration",
+    "birth": "1971",
+    "department": "ECONOMIC POLICY",
+    "cell": "123-321-0988",
+    "confirmed by senate": "Confirmation needed",
+    "photo": ""
+  }
+]
